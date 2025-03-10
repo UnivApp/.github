@@ -5,7 +5,7 @@
 ## Members
 |Yerin Shin|Seongyun Jeong|
 |:---:|:---:|
-|![Photo](https://avatars.githubusercontent.com/u/91180366?v=4)|![Photo](https://avatars.githubusercontent.com/u/50621327?v=4)|
+|<img src="https://avatars.githubusercontent.com/u/91180366?v=4" width="120">|<img src="https://avatars.githubusercontent.com/u/50621327?v=4" width="120">|
 |[@nyeroni](https://github.com/nyeroni)|[@jeoungsung12](https://github.com/jeoungsung12)|
 |[Backend]()|[FrontEnd(IOS)](https://github.com/UnivApp/iOS)|
 
